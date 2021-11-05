@@ -7,20 +7,20 @@ body {
 .header {
     padding: 30px;
     text-align: center;
-    background-color: #789c8a;
+    background-color: #98b1a5;
     font-family: sans-serif;
     font-size: 58px;
-    color: white;
-    height: 310px;
-    border-bottom-right-radius: 400px;
-    border-bottom-left-radius: 400px;
+    color: rgb(0, 0, 0);
+    height: 210px;
+    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 300px;
     margin-top: -80px;
 }
 
 .header-schrift {
     font-size: 26px;
     font-family: sans-serif;
-    margin-top: -70px;
+    margin-top: -90px;
 
 }
 
@@ -29,3 +29,4 @@ main {
 
 
 }
+
