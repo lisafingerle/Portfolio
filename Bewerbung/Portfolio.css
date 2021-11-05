@@ -1,0 +1,31 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background-color: #789c8a;
+    font-family: sans-serif;
+    font-size: 58px;
+    color: white;
+    height: 310px;
+    border-bottom-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    margin-top: -80px;
+}
+
+.header-schrift {
+    font-size: 26px;
+    font-family: sans-serif;
+    margin-top: -70px;
+
+}
+
+main {
+    font-family: sans-serif;
+
+
+}
